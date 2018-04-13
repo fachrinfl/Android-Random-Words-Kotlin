@@ -1,4 +1,4 @@
-# Android-Random-Words-Kotlin
+# Android Random Words Kotlin
 Simple android app randow words
 
 Simple android kotlin for learning, so just :
